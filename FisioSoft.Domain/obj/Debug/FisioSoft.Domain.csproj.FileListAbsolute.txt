@@ -1,0 +1,5 @@
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Domain\bin\Debug\FisioSoft.Domain.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Domain\bin\Debug\FisioSoft.Domain.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Domain\obj\Debug\FisioSoft.Domain.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Domain\obj\Debug\FisioSoft.Domain.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Domain\obj\Debug\FisioSoft.Domain.csprojResolveAssemblyReference.cache

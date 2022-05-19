@@ -1,0 +1,9 @@
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\bin\Debug\FisioSoft.Repository.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\bin\Debug\FisioSoft.Repository.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\bin\Debug\FisioSoft.Domain.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\bin\Debug\FisioSoft.Others.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\bin\Debug\FisioSoft.Domain.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\bin\Debug\FisioSoft.Others.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\obj\Debug\FisioSoft.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\obj\Debug\FisioSoft.Repository.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft.Repository\obj\Debug\FisioSoft.Repository.pdb

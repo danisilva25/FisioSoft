@@ -1,0 +1,9 @@
+﻿create table paciente(
+	prontuarioPaciente int  not null,
+	nomePaciente varchar(100) not null,
+	cartaoSus varchar(15) not null,
+	telefone varchar(14),
+	enderecoPaciente varchar(150)not null,
+	dataNascimento date not null,
+	constraint pk_paciente Primary Key(prontuarioPaciente)
+);

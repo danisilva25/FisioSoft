@@ -1,0 +1,17 @@
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.exe.config
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\obj\Debug\FisioSoft.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\obj\Debug\FisioSoft.Properties.Resources.resources
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\obj\Debug\FisioSoft.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.exe
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.Domain.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.Others.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.Repository.dll
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.Domain.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.Others.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\bin\Debug\FisioSoft.Repository.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\obj\Debug\FisioSoft.exe
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\obj\Debug\FisioSoft.pdb
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\obj\Debug\FisioSoft.Form1.resources
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\obj\Debug\FisioSoft.Views.FRMInserir.resources
+C:\Users\Familia\Desktop\Projetos\FisioSoft\FisioSoft\obj\Debug\FisioSoft.Views.FRMAlterar.resources
